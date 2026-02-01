@@ -352,20 +352,6 @@ B 站 API 采用 C/S 架构，大多数接口为 REST API 和 gRPC，少部分�
 
 或访问爱发电：[https://afdian.com/@ShakaiAneE](https://afdian.com/@ShakaiAneE)
 
-## 🔗 相关项目推荐
+## 备注
 
-### 库及文档
-
-- [jingyuexing/bilibiliAPI](https://github.com/jingyuexing/bilibiliAPI)
-- [fython/BilibiliAPIDocs](https://github.com/fython/BilibiliAPIDocs)
-- [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api)
-- [Vespa314/bilibili-api](https://github.com/Vespa314/bilibili-api)
-- [Pengfei00/bili-utils](https://github.com/Pengfei00/bili-utils): bilibili 工具箱
-- [lovelyyoshino/Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API): Bilibili 直播/番剧 API 文档
-- [flaribbit/bilibili-manga-spider](https://github.com/flaribbit/bilibili-manga-spider): Bilibili 漫画爬虫
-- [simon300000/bili-api](https://github.com/simon300000/bili-api): Bilibili Node.js API
-- [iyear/biligo](https://github.com/iyear/biligo): Bilibili API SDK in Golang
-- [bilibili-openplatform/demo](https://github.com/bilibili-openplatform/demo): 哔哩哔哩开放平台示例代码库
-- [ddiu8081/blive-message-listener](https://github.com/ddiu8081/blive-message-listener): Bilibili-live danmu listener with type. Bilibili 直播间弹幕监听库，支持类型输出。
-- [Nemo2011/bilibili-api](https://github.com/Nemo2011/bilibili-api): 哔哩哔哩常用 API 调用。支持视频、番剧、用户、频道、音频等功能。工具齐全。
-- [CuteReimu/bilibili](https://github.com/CuteReimu/bilibili): 哔哩哔哩 API 的 Go 版本 SDK
+此存储库基于目前存留的相关存储库Fork而来，原bilibili-API-collect存储库已不再维护且被清空。
